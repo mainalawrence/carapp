@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
-import { Icons } from "./Icons";
 
 export function SiteFooter() {
   return (

@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { Icons } from "./Icons";
 import 'car-makes-icons/dist/style.css';
 
 export function Hero() {
